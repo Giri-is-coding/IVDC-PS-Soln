@@ -8,3 +8,8 @@ The given video was processed first by boosting monocular depth network which wa
 The 12sec video is named as Given_video_high_quality_mapped_12sec.mp4
 
 The full video is named as Given_Video_outputMerged.mp4
+
+UPDATE:
+The full video exceeded size limits of github.....
+So kindly view the video using the link: https://drive.google.com/file/d/1bG-9uoWxKGVj72ApuHcXcFvl_L73cYfw/view?usp=sharing
+Sorry for the inconvenience!!
